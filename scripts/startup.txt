@@ -1,0 +1,5 @@
+# проверка команд
+ls
+ls docs a.txt
+cd /home
+rm file
